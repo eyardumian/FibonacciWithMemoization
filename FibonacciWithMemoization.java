@@ -10,7 +10,7 @@ import java.io.*;
  * (dot-down) method. 
  *
  *Programing Assignment 2 
- *@author Erika Yardumian - CPSC - 3283
+ *@author Erika Yardumian
  *@version 6/14/19
  */
 public class FibonacciWithMemoization {
